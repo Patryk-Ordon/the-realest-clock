@@ -1,4 +1,5 @@
-# the-realest-clock
+# The Realest Clock
+
 This is a clock project designed around logic gates, binary counters and D flip-flops.
 
 The project was created in the Multisim program and then physically executed.
